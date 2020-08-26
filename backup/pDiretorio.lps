@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="2">
+      <Unit0>
+        <Filename Value="pDiretorio.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="u_principal.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <ResourceBaseClass Value="Form"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="83"/>
+        <CursorPos X="30" Y="91"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+    </Units>
+    <JumpHistory Count="12" HistoryIndex="11">
+      <Position1>
+        <Filename Value="u_principal.pas"/>
+        <Caret Line="12" Column="92"/>
+      </Position1>
+      <Position2>
+        <Filename Value="u_principal.pas"/>
+        <Caret Line="26" Column="49" TopLine="5"/>
+      </Position2>
+      <Position3>
+        <Filename Value="u_principal.pas"/>
+        <Caret Line="27" Column="23" TopLine="19"/>
+      </Position3>
+      <Position4>
+        <Filename Value="u_principal.pas"/>
+        <Caret Line="111" Column="34" TopLine="35"/>
+      </Position4>
+      <Position5>
+        <Filename Value="u_principal.pas"/>
+        <Caret Line="118" Column="34" TopLine="83"/>
+      </Position5>
+      <Position6>
+        <Filename Value="u_principal.pas"/>
+        <Caret Line="54" Column="5" TopLine="35"/>
+      </Position6>
+      <Position7>
+        <Filename Value="u_principal.pas"/>
+        <Caret Line="69" Column="37" TopLine="50"/>
+      </Position7>
+      <Position8>
+        <Filename Value="u_principal.pas"/>
+        <Caret Line="68" Column="37" TopLine="49"/>
+      </Position8>
+      <Position9>
+        <Filename Value="u_principal.pas"/>
+        <Caret Line="69" Column="37" TopLine="50"/>
+      </Position9>
+      <Position10>
+        <Filename Value="u_principal.pas"/>
+        <Caret Line="100" Column="55" TopLine="91"/>
+      </Position10>
+      <Position11>
+        <Filename Value="u_principal.pas"/>
+        <Caret Line="95" Column="69" TopLine="83"/>
+      </Position11>
+      <Position12>
+        <Filename Value="u_principal.pas"/>
+        <Caret Line="100" Column="58" TopLine="83"/>
+      </Position12>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
